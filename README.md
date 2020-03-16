@@ -17,6 +17,7 @@ $ git clone git@github.com:DevSamurai/nodejs-template-devsamurai-mongoose-basic.
 $ cd [ProjectName]
 $ node ./setup.js
 $ yarn
+$ cp .env.example .env # ajustar os parâmetros de configuração
 $ yarn dev
 ```
 
