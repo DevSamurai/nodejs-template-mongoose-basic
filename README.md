@@ -13,7 +13,7 @@ Template para projetos básicos em NodeJS + Mongoose.
 1. Clonar o repositório:
 
 ```sh
-$ git clone git@github.com:DevSamurai/nodejs-template-devsamurai-mongoose-basic.git [ProjectName]
+$ git clone git@github.com:DevSamurai/nodejs-template-mongoose-basic.git [ProjectName]
 $ cd [ProjectName]
 $ node ./setup.js
 $ yarn
