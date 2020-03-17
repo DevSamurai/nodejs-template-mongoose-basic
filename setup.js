@@ -31,5 +31,6 @@ deleteFolder(".git");
 
 // Remove files
 deleteFile("setup.js");
+deleteFile("LICENSE");
 
 console.log("✅ Finished!");
