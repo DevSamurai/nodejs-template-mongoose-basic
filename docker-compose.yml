@@ -20,7 +20,5 @@ services:
       - MONGODB_PASS=secret
       - MONGO_DATA_DIR=/data/db
       - MONGO_LOG_DIR=/dev/null
-    volumes:
-      - ./.docker/mongodb:/data/db
     ports:
       - 27017:27017
